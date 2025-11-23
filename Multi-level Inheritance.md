@@ -5,7 +5,7 @@
 
 ### AIM  
 To write a Python program to get the name, age, and ID of a person and display them using multilevel inheritance.
-
+ 
 ---
 
 ### ALGORITHM
